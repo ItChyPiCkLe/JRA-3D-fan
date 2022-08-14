@@ -1,0 +1,1 @@
+ffmpeg -i "C:/Users/alexj/OneDrive/Desktop/blankWhite.jpg " -f mp3 -y -vn  "C:/Users/alexj/OneDrive/Desktop/theirBlankWhite.mp3"
